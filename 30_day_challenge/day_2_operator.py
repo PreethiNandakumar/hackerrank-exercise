@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Program for operators
 import math
 import os
 import random
